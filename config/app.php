@@ -162,6 +162,9 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
 
+        //Added when 'tinker' command failed to work
+        Laravel\Tinker\TinkerServiceProvider::class, 
+
         /*
          * Package Service Providers...
          */
