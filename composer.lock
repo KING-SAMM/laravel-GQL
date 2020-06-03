@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "73f34ccddaf1c3f5870b5c0dd8682b59",
+    "content-hash": "f4b16dc89dbbe8aa63abcbf0df650bb9",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1325,16 +1325,16 @@
         },
         {
             "name": "nuwave/lighthouse",
-            "version": "v4.12.4",
+            "version": "v4.13.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nuwave/lighthouse.git",
-                "reference": "a6b689a466009645ce24520363e9f8b951cffae1"
+                "reference": "fc1d6f8edb8d6c0aa5dc3a8d91f3a2ea5bcc341b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nuwave/lighthouse/zipball/a6b689a466009645ce24520363e9f8b951cffae1",
-                "reference": "a6b689a466009645ce24520363e9f8b951cffae1",
+                "url": "https://api.github.com/repos/nuwave/lighthouse/zipball/fc1d6f8edb8d6c0aa5dc3a8d91f3a2ea5bcc341b",
+                "reference": "fc1d6f8edb8d6c0aa5dc3a8d91f3a2ea5bcc341b",
                 "shasum": ""
             },
             "require": {
@@ -1361,7 +1361,7 @@
                 "laravel/scout": "^4.0 || ^5.0 || ^6.0 || ^7.0",
                 "mll-lab/graphql-php-scalars": "^2.1",
                 "mockery/mockery": "^1.0",
-                "nunomaduro/larastan": "^0.5.2",
+                "nunomaduro/larastan": "^0.5.8",
                 "orchestra/database": "3.5.* || 3.6.* || 3.7.* || 3.8.* || 3.9.* || ^4.0 || ^5.0",
                 "orchestra/testbench": "3.5.* || 3.6.* || 3.7.* || 3.8.* || 3.9.* || ^4.0 || ^5.0",
                 "phpbench/phpbench": "@dev",
@@ -1417,7 +1417,7 @@
                 "laravel",
                 "laravel-graphql"
             ],
-            "time": "2020-04-30T20:27:05+00:00"
+            "time": "2020-05-23T15:54:56+00:00"
         },
         {
             "name": "opis/closure",

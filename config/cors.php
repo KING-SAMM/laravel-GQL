@@ -17,7 +17,11 @@ return [
 
     'paths' => ['api/*'],
 
+    'paths' => ['api/*', 'graphql'],
+
     'allowed_methods' => ['*'],
+
+   // 'allowed_origins' => explode(',', env('ALLOWED_CORS_ORIGINS', [])),
 
     'allowed_origins' => ['*'],
 
